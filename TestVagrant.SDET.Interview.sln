@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVagrant.SDET.Interview", "TestVagrant.SDET.Interview\TestVagrant.SDET.Interview.csproj", "{AA1F6AD5-B820-42EB-90FE-BD41EC5901B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1F6AD5-B820-42EB-90FE-BD41EC5901B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1F6AD5-B820-42EB-90FE-BD41EC5901B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1F6AD5-B820-42EB-90FE-BD41EC5901B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1F6AD5-B820-42EB-90FE-BD41EC5901B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ABF5A32-D822-498B-8B9D-9142CC073136}
+	EndGlobalSection
+EndGlobal

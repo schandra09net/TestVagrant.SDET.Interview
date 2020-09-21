@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UIElements>
+  <Element name="SubMenuLink" value="h_sub_menu"/>
+  <Element name="WeatherLink" value="//*[@id='subnav']/div/div/div/div/div/a[8]"/>
+  <Element name="SearchCityTextBox" value="searchBox"/>
+  <Element name="CityCheckbox" value="cityText"/>
+  <Element name="WeatherDetailsLabel" value="//div[@class='leaflet-popup-content']/div/span[@class='heading']"/>
+</UIElements>
